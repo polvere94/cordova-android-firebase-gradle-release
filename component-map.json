@@ -1,5 +1,6 @@
 {
   "firebase-core": "com.google.firebase",
+  "firebase-iid": "com.google.firebase",
   "firebase-ads": "com.google.firebase",
   "firebase-analytics": "com.google.firebase",
   "firebase-appindexing": "com.google.firebase",
