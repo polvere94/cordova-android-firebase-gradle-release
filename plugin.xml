@@ -20,6 +20,9 @@
 
         <!-- Firebase Core -->
         <preference name="firebase-core" default="17.0.0" />
+        
+            <!-- Firebase iid -->
+        <preference name="firebase-iid" default="17.0.0" />
 
         <!-- Ads -->
         <preference name="firebase-ads" default="18.0.0" />
